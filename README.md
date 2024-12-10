@@ -8,56 +8,17 @@ FortniteHax is an FPS-optimized fork of Aimmy designed specifically for Fortnite
 
 ## Features
 
-### Advanced YOLOv8 Integration
-- Uses YOLOv8 for highly accurate object detection and tracking.
-- Optimized model support for better FPS performance in Fortnite.
+### Core Features
+- **Aimbot**: Highly accurate aim assist powered by YOLOv8 for precise targeting.
+- **ESP (Extrasensory Perception)**: Visualize detected players, AI confidence levels, and tracers.
+- **Anti-Recoil**: Compensate for weapon recoil automatically.
+- **Auto Trigger**: Fire automatically when a target is detected.
 
-### Smooth and Intuitive UI
-- A modern, easy-to-navigate interface for seamless configuration.
-- Responsive sliders, toggles, and dropdowns for precise customization.
-
-### Aim Assist
-- **Aim Assist Toggle**: Enable or disable aim assist.
-- **Aim Keybind**: Assign a key for aim activation (default: Right).
-- **Aim Strength**: Adjust the aim assist strength (default: 3.70).
-- **Second Aim Keybind**: Assign an optional secondary keybind (default: G).
-- **Constant AI Tracking**: Toggle AI tracking for continuous aim.
-- **Emergency Stop Keybind**: Assign a key for emergency stop (default: Right Bracket).
-
-### Aim Config
-- **Prediction Method**: Choose prediction methods (e.g., `wisethefox's EMA Prediction`).
-- **Detection Area Type**: Select detection area (e.g., Closest to Center Screen).
-- **Aiming Boundaries Alignment**: Set aiming alignment (e.g., Center).
-- **Mouse Sensitivity**: Fine-tune mouse sensitivity (default: 0.83).
-- **Mouse Jitter**: Add jitter to mouse input (default: 0.00).
-- **X Offset (Left/Right)**: Adjust horizontal aim offset (default: -5.00).
-- **Y Offset (Up/Down)**: Adjust vertical aim offset (default: -4.00).
-- **AI Minimum Confidence**: Set the AI confidence threshold for detection (default: 9.00%).
-
-### Auto Trigger
-- Toggle and configure auto-trigger functionality.
-
-### Anti Recoil
-- Enable and adjust anti-recoil settings.
-
-### ESP Config
-- **Show Detected Player**: Toggle the display of detected players.
-- **Show AI Confidence**: Enable AI confidence display.
-- **Show Tracers**: Enable visual tracers.
-
-### Flexible Input and Execution Options
-- Multiple mouse input methods:
-  - **SendInput**: Standard mouse input.
-  - **SendInput Stealth**: Optimized for stealth operation.
-  - **Mouse Event**: Uses Windows Mouse Event API.
-- Execution types:
-  - **CUDA**: Best performance for systems with NVIDIA GPUs.
-  - **TensorRT**: High-performance inference for supported GPUs.
-  - **CPU**: Last-resort option for systems without GPU support.
-
-### Screen Capture Modes
-- **DirectX**: Recommended for best compatibility and performance.
-- **GDI**: Backup method for systems that do not support DirectX.
+### Additional Options
+- Flexible mouse inputs: Choose between `SendInput`, `SendInput Stealth`, or `Mouse Event`.
+- Multiple execution types: `CUDA`, `TensorRT`, or `CPU` for optimized performance.
+- Screen capture modes: `DirectX` for high performance or `GDI` as a backup.
+- More configurations available in the program.
 
 ---
 
