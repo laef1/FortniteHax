@@ -13,7 +13,7 @@ This guide provides solutions to common issues encountered while using FortniteH
 1. Go to **Settings**.
 2. Change the **Execution Type** from `TensorRT` to either `CUDA (Recommended)` or `CPU`.
 3. Reboot the program.
-4. Load a backup model if needed.
+4. Load a backup model if needed. - Optional
 5. Once loaded, you can select your desired Execution Type again.
 
 ---
