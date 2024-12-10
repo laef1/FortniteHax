@@ -1,4 +1,4 @@
-# How to Operate FortniteHax
+# How to Operate - FortniteHax
 
 This guide provides a basic tutorial for setting up and operating FortniteHax. Please note that FortniteHax is a private project, and this documentation is for internal use only.
 
