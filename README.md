@@ -24,7 +24,7 @@ FortniteHax is an FPS-optimized fork of Aimmy designed specifically for Fortnite
 
 ## How to Operate
 
-For detailed instructions, see the [How to Operate Guide](howtooperate_fortnitehax.md).
+For detailed instructions, see the [How to Operate Guide](HOWTOOPERATE.md).
 
 ### Quick Overview:
 1. **Run the Program**: Execute `FortniteHax.exe`.
@@ -38,7 +38,7 @@ For detailed instructions, see the [How to Operate Guide](howtooperate_fortniteh
 
 ## Troubleshooting
 
-For detailed solutions, refer to the [Troubleshooting Guide](troubleshoot_fortnitehax.md).
+For detailed solutions, refer to the [Troubleshooting Guide](TROUBLESHOOT.md).
 
 ### Common Issues:
 - **Infinite Loading**: If stuck while loading a model, switch Execution Type and reboot.
