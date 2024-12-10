@@ -73,6 +73,16 @@ For detailed instructions, see the [How to Operate Guide](howtooperate_fortniteh
 
 ---
 
+## Troubleshooting
+
+For detailed solutions, refer to the [Troubleshooting Guide](troubleshoot_fortnitehax.md).
+
+### Common Issues:
+- **Infinite Loading**: If stuck while loading a model, switch Execution Type and reboot.
+- **Erratic Mouse/Aimbot**: Adjust Mouse Sensitivity and Aim Strength as per the Troubleshooting Guide.
+
+---
+
 ## Disclaimer
 FortniteHax is intended for private use only. Unauthorized sharing or usage is prohibited. Use this software responsibly and at your own risk.
 
