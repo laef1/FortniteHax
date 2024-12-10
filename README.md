@@ -6,6 +6,14 @@ FortniteHax is an FPS-optimized fork of Aimmy designed specifically for Fortnite
 
 ## Features
 
+### Advanced YOLOv8 Integration
+- Uses YOLOv8 for highly accurate object detection and tracking.
+- Optimized model support for better FPS performance in Fortnite.
+
+### Smooth and Intuitive UI
+- A modern, easy-to-navigate interface for seamless configuration.
+- Responsive sliders, toggles, and dropdowns for precise customization.
+
 ### Aim Assist
 - **Aim Assist Toggle**: Enable or disable aim assist.
 - **Aim Keybind**: Assign a key for aim activation (default: Right).
@@ -35,31 +43,37 @@ FortniteHax is an FPS-optimized fork of Aimmy designed specifically for Fortnite
 - **Show AI Confidence**: Enable AI confidence display.
 - **Show Tracers**: Enable visual tracers.
 
+### Flexible Input and Execution Options
+- Multiple mouse input methods:
+  - **SendInput**: Standard mouse input.
+  - **SendInput Stealth**: Optimized for stealth operation.
+  - **Mouse Event**: Uses Windows Mouse Event API.
+- Execution types:
+  - **CUDA**: Best performance for systems with NVIDIA GPUs.
+  - **TensorRT**: High-performance inference for supported GPUs.
+  - **CPU**: Last-resort option for systems without GPU support.
+
+### Screen Capture Modes
+- **DirectX**: Recommended for best compatibility and performance.
+- **GDI**: Backup method for systems that do not support DirectX.
+
 ---
 
 ## How to Operate
 
-1. **Download and Install**
-   - Clone the repository: `git clone https://github.com/username/FortniteHax.git`
-   - Run the executable or script included in the repository.
+For detailed instructions, see the [How to Operate Guide](howtooperate_fortnitehax.md).
 
-2. **Configure Your Aimbot**
-   - The two main settings to adjust are:
-     - **Aim Strength**: Use the slider to control how strong the aim assist should be (default: 3.70).
-     - **Mouse Sensitivity**: Adjust the mouse sensitivity to match your in-game settings (default: 0.83).
-
-3. **Enable Aim Assist**
-   - Toggle "Aim Assist" to ON.
-   - Set your preferred aim keybinds.
-
-4. **Activate and Play**
-   - Launch Fortnite.
-   - Activate aim assist using the configured keybind.
-   - Adjust other settings like detection area and offsets for precision.
+### Quick Overview:
+1. **Run the Program**: Execute `FortniteHax.exe`.
+2. **Load the AI Model**: Place your YOLOv8 model in `bin/model` and load it in the program.
+3. **Configure Mouse Inputs**: Choose between `SendInput`, `SendInput Stealth`, or `Mouse Event`.
+4. **Select Execution Type**: Use `CUDA`, `TensorRT`, or `CPU` based on your system.
+5. **Set Screen Capture**: Use `DirectX` or `GDI` based on your system requirements.
+6. **Customize ESP and Aim Settings**: Adjust visual configurations and aim parameters for your play style.
 
 ---
 
 ## Disclaimer
-FortniteHax is intended for educational purposes only. Use this software at your own risk. The developers are not responsible for any bans or issues arising from the use of this software.
+FortniteHax is intended for private use only. Unauthorized sharing or usage is prohibited. Use this software responsibly and at your own risk.
 
 ---
