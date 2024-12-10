@@ -1,10 +1,10 @@
-![FortniteHax Interface](images/IMAGE_5713.png)
-
 # FortniteHax
 
 FortniteHax is an FPS-optimized fork of Aimmy designed specifically for Fortnite. This fork focuses on performance and precision by incorporating features like Aim Strength adjustment and the stealth SendInput mouse input method. It aims to provide a smooth and undetectable aimbot experience tailored for Fortnite enthusiasts.
 
 ---
+
+![FortniteHax Interface](images/IMAGE_5713.png)
 
 ## Features
 
