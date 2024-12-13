@@ -4,6 +4,15 @@ This guide provides a basic tutorial for setting up and operating FortniteHax. P
 
 ---
 
+## Download Tutorial
+
+### Step 1: Download dependencies and Main
+- Dependencies can be found in the #download channel in laef customers
+
+### Step 2: Combine dependencies and Main
+- Extract `net8.0-windows.rar` (Dependencies), and `net8.0-windows.rar (1)` (Main)
+- Copy all of the items in `net8.0-windows.rar` and paste into `net8.0-windows.rar (1)` | IF ASKED TO REPLACE FILES: YES
+
 ## Setup Tutorial
 
 ### Step 1: Run the Program
